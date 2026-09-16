@@ -54,19 +54,19 @@ HR-Excel-Dashboard/
 │
 ├── README.md
 │
-├── data/
+├── Data/
 │   └── hr_dataset.xlsx
 │
-├── dashboard/
+├── HR-Analytics-Dashboard/
 │   ├── HR_Dashboard.xlsx
-│   └── dashboard_preview.png
+│   └── HR-Analytics-Dashboard.png
 │
 └── LICENSE
 ```
 
 ## 📸 Dashboard Preview
 
-![HR Dashboard]()
+![HR Dashboard](HR-Analytics-Dashboard/HR-Analytics-Dashboard.png)
 
 ## 💡 Key Insights
 
